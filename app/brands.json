@@ -1,0 +1,254 @@
+[
+    {
+        "name": "Exhalelabel",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/exhale.jpg",
+        "tags": "clothing",
+        "theme color": "#000000"
+    },
+    {
+        "name": "Belora",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/Belora.jpg",
+        "tags": "accessories",
+        "theme color": "#000000"
+    },
+    {
+        "name": "BeYours",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/Beyours.jpg",
+        "tags": "clothing",
+        "theme color": "#ffffff"
+    },
+    {
+        "name": "Mannmani",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/Mann-Maani.jpg",
+        "tags": "clothing",
+        "theme color": "#000000"
+    },
+    {
+        "name": "Melangebox",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/Melangebox.jpg",
+        "tags": "clothing",
+        "theme color": "#451788"
+    },
+    {
+        "name": "Wforwoman",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/W.jpg",
+        "tags": "clothing,accessories,footwear",
+        "theme color": "#cf3034"
+    },
+    {
+        "name": "Jiha",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/Jiha.jpg",
+        "tags": "footwear",
+        "theme color": "#f8f0df"
+    },
+    {
+        "name": "Vishudh",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/vishudh.jpg",
+        "tags": "clothing",
+        "theme color": "#f7b534"
+    },
+    {
+        "name": "Tokyo Talkies",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/tokyo-talkies.jpg",
+        "tags": "clothing",
+        "theme color": "#000000"
+    },
+    {
+        "name": "CuteStuff",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/CuteStuff.jpg",
+        "tags": "clothing,accessories",
+        "theme color": "#ffd544"
+    },
+    {
+        "name": "Veirdo",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/Vierdo.jpg",
+        "tags": "clothing",
+        "theme color": "#5c2300"
+    },
+    {
+        "name": "Zaydn",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/zaydn.jpg",
+        "tags": "footwear",
+        "theme color": "#000000"
+    },
+    {
+        "name": "Abhishti",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/abhishti.jpg",
+        "tags": "clothing",
+        "theme color": "#000000"
+    },
+    {
+        "name": "Soxytoes",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/soxytoes.jpg",
+        "tags": "footwear",
+        "theme color": "#000000"
+    },
+    {
+        "name": "Baella Stitch",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/baella-stitch.jpg",
+        "tags": "clothing",
+        "theme color": "#4c4c4c"
+    },
+    {
+        "name": "Fabnest",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/fabnest.jpg",
+        "tags": "clothing,accessories,footwear",
+        "theme color": "#fad4cb"
+    },
+    {
+        "name": "Ecentric",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/Ecentric.png",
+        "tags": "clothing",
+        "theme color": "#163a2d"
+    },
+    {
+        "name": "halffull-halfempty",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/HalfFullHalfEmpty.jpg",
+        "tags": "clothing",
+        "theme color": "#cefaf6"
+    },
+    {
+        "name": "isforufashion",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/ISu.jpg",
+        "tags": "clothing",
+        "theme color": "#060606"
+    },
+    {
+        "name": "Libas",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/libas.jpg",
+        "tags": "clothing",
+        "theme color": "#660066"
+    },
+    {
+        "name": "Minimaliste Clothing",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/minimaliste.jpg",
+        "tags": "clothing",
+        "theme color": "#000000"
+    },
+    {
+        "name": "GETKETCH",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/ketch.jpg",
+        "tags": "clothing",
+        "theme color": "#000000"
+    },
+    {
+        "name": "NiftyJeans",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/NiftyJeans.jpg",
+        "tags": "clothing",
+        "theme color": "#000000"
+    },
+    {
+        "name": "TheColorTales",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/TheColorTales.jpg",
+        "tags": "clothing,accessories",
+        "theme color": "#000000"
+    },
+    {
+        "name": "Paaduks",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/paduks.jpg",
+        "tags": "accessories,footwear",
+        "theme color": "#000000"
+    },
+    {
+        "name": "SaltAttire",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/salt.jpg",
+        "tags": "clothing,accessories,footwear",
+        "theme color": "#28282a"
+    },
+    {
+        "name": "Aurelia",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/aurelia.jpg",
+        "tags": "clothing,footwear",
+        "theme color": "#faa73f"
+    },
+    {
+        "name": "Sanbae",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/sanbae.jpg",
+        "tags": "clothing,accessories",
+        "theme color": "#000000"
+    },
+    {
+        "name": "Solethreads",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/solethreads.jpeg",
+        "tags": "footwear",
+        "theme color": "#094d52"
+    },
+    {
+        "name": "Starcts by riya",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/stracts.jpg",
+        "tags": "clothing,accessories",
+        "theme color": "#0e1b4d"
+    },
+    {
+        "name": "Svenklas",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/svenklas.jpg",
+        "tags": "accessories",
+        "theme color": "#000000"
+    },
+    {
+        "name": "Myshka",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/myshka.jpg",
+        "tags": "clothing",
+        "theme color": "#df3e99"
+    },
+    {
+        "name": "H&M",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/hnm.jpg",
+        "tags": "clothing",
+        "theme color": "#cd071e"
+    },
+    {
+        "name": "Leemboodi",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/lemboodi.jpeg",
+        "tags": "clothing",
+        "theme color": "#000000"
+    },
+    {
+        "name": "Freakins",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/freakins.jpg",
+        "tags": "clothing,accessories",
+        "theme color": "#000000"
+    },
+    {
+        "name": "Ishin",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/ishin.jpg",
+        "tags": "clothing,accessories",
+        "theme color": "#ef186d"
+    },
+    {
+        "name": "IZF",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/izf.jpg",
+        "tags": "clothing",
+        "theme color": "#a2a0cf"
+    },
+    {
+        "name": "Janasya",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/janasya.jpg",
+        "tags": "clothing",
+        "theme color": "#04a4b4"
+    },
+    {
+        "name": "LittleBox",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/littlebox.jpg",
+        "tags": "clothing,footwear",
+        "theme color": "#000000"
+    },
+    {
+        "name": "Redwolf",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/redwolf.jpg",
+        "tags": "clothing,accessories",
+        "theme color": "#ef2728"
+    },
+    {
+        "name": "Flipkart",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/flipkart.jpg",
+        "tags": "null",
+        "theme color": "#007bd8"
+    },
+    {
+        "name": "Innovist",
+        "logo": "https://d3g01po1nkka75.cloudfront.net/brandlogos/Innovist.jpg",
+        "tags": "null",
+        "theme color": "#ffffff"
+    }
+]
